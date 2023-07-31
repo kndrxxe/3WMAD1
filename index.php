@@ -8,6 +8,6 @@
 </head>
 <body>
     <h1>Kendrix Brosas</h1>
-    <h1>LSPU-SPCC</h1>
+    <h1>LSPU-San Pablo City</h1>
 </body>
 </html>
